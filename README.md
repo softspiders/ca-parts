@@ -7,7 +7,7 @@
     <img src="./diagrams/ca-parts.svg" width="600"/>
   </a>
   </br>
-  <b>Package structure</b>
+  <b>Clean Architecture PArts hierarchy</b>
 </p>
 
 ---
